@@ -11,7 +11,6 @@ PHP version: 8.2.6
 - ** Configure .env-example to .env file **
 
 - ** Run: php artisan key:generate **
--
 - ** Run: php artisan migrate **
 
 - ** Run: npm run dev **
